@@ -1,4 +1,4 @@
-# Victoria’s RF Explorer
+# Receptive Field Explorer
 
 A lightweight Dash web app for visualizing receptive‐field (RF) heatmaps and timecourses across multiple ROIs in 2-photon imaging data.
 
@@ -7,7 +7,7 @@ A lightweight Dash web app for visualizing receptive‐field (RF) heatmaps and t
 ## Current Features
 
 - **Interactive RF image**  
-  Click on any ROI in the 2-photon image to select it.
+  Click on any ROI in the 2-photon image to select it. 
 
 - **RF Traces Grid**  
   Displays the timecourse of dF/F for each of the receptive field stimulus positions for the current ROI.
