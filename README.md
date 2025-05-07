@@ -2,7 +2,7 @@
 
 A lightweight Dash web app for visualizing receptive‐field (RF) heatmaps and timecourses across multiple ROIs in 2-photon imaging data.
 
----
+<img width="1440" alt="screenshot_app" src="https://github.com/user-attachments/assets/81e5d985-59e0-46bc-bb8d-fd734049384b" />
 
 ## Current Features
 
